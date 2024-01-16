@@ -1,14 +1,10 @@
 
 package com.example.helidon;
 
-
-import io.helidon.logging.common.LogConfig;
 import io.helidon.config.Config;
+import io.helidon.logging.common.LogConfig;
 import io.helidon.webserver.WebServer;
 import io.helidon.webserver.http.HttpRouting;
-
-
-
 
 /**
  * The application main class.
